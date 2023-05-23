@@ -50,7 +50,7 @@ Also, the administrator can configure departments and assign permissions. You mu
 <br />
 <p>
 <h2>Configure Teams</h2>
-<img src="https://imgur.com/7KoSc0Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pda4Ons.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next, the administrator can configure teams. You must be under "Admin Panel" and click on "Agents" --> click on "Teams". Next click on "Add New Team" to name the team and you have the option to add memebers under the "Members" tab. Once completed, you can click on "Create Team" to confirm.
@@ -58,7 +58,7 @@ Next, the administrator can configure teams. You must be under "Admin Panel" and
 <br />
 <p>
 <h2> Allow Everyone to Create Tickets</h2>
-<img src="https://imgur.com/OAEAKrO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/k6AkTXm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The administrator can allow anyone to create tickets. Under the "Admin Panel --> click on "Settings" --> click on "User Settings" and check the box for "Require Registration"
