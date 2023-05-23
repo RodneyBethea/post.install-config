@@ -66,14 +66,14 @@ The administrator can allow anyone to create tickets. Under the "Admin Panel -->
 <br />
 <p>
 <h2>Configure Agents (Workers)</h2>
-<img src="https://imgur.com/gYzkii9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GtRHkbm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Under the Admin Panel --> click on "Users" --> click on "Add New Agent"
 </p>
 <br />
 <h2>Configure Users (Customers)</h2>
-<img src="https://imgur.com/eCw82U2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bXIEvtS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Under the Agent Panel --> click on "Users" --> click on "Add New"
